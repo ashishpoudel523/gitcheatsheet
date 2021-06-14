@@ -1,7 +1,7 @@
 # gitcheatsheet
 
 For Config:
-=> git config --global user.name "Bishworaj Poudel" => git config --global user.email "iambrp.tech@gmail.com"
+=> git config --global user.name "Bishworaj Poudel" => git config --global user.email "----"
 
 To View user.name and email
 git config --list
