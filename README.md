@@ -1,4 +1,4 @@
-# gitcheatsheet
+# gitcheatsheet..........................
 
 For Config:
 => git config --global user.name "Ashish Poudel" => git config --global user.email "----"
